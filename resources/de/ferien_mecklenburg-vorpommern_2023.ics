@@ -43,6 +43,12 @@ SUMMARY:Herbstferien Mecklenburg-Vorpommern 2023 (Beweglicher Ferientag)
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220919T193834Z
+DTSTART:20231101
+DTEND:20231101
+SUMMARY:Herbstferien Mecklenburg-Vorpommern 2023 (Beweglicher Ferientag)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220919T193834Z
 DTSTART:20231221
 DTEND:20240103
 SUMMARY:Weihnachtsferien Mecklenburg-Vorpommern 2023
